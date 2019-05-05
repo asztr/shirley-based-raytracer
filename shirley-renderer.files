@@ -1,0 +1,11 @@
+camera.h
+disc.h
+geometry.h
+hitable.h
+hitable_list.h
+lightprobe.jpg
+main.cpp
+material.h
+ray.h
+sphere.h
+vec3.h
